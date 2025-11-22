@@ -1,0 +1,9 @@
+streamlit
+spacy
+language-tool-python
+sentence-transformers
+textstat
+nltk
+pandas
+numpy
+plotly
