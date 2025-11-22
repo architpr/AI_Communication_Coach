@@ -9,7 +9,7 @@
 This application is an AI-driven tool designed to evaluate student self-introductions based on a **strict grading rubric**. It accepts a text transcript, analyzes it using Natural Language Processing (NLP) and rule-based logic, and provides a detailed score out of 100 along with actionable feedback.
 
 ## 🔗 Quick Links
-- **🔴 Live Demo:** [https://aicommunicationcoach-mucutwdenhrog36ececjch.streamlit.app/]
+- **🔴 Deployed website:** [https://aicommunicationcoach-mucutwdenhrog36ececjch.streamlit.app/]
 - **🎥 Video Walkthrough:** [https://drive.google.com/file/d/1Mej1pAUG00HVAlZS28QKeGei8vFcvWCo/view?usp=sharing]
 
 ---
