@@ -10,7 +10,7 @@ This application is an AI-driven tool designed to evaluate student self-introduc
 
 ## 🔗 Quick Links
 - **🔴 Live Demo:** [PASTE_YOUR_STREAMLIT_LINK_HERE]
-- **🎥 Video Walkthrough:** [PASTE_YOUR_VIDEO_LINK_HERE]
+- **🎥 Video Walkthrough:** [https://drive.google.com/file/d/1Mej1pAUG00HVAlZS28QKeGei8vFcvWCo/view?usp=sharing]
 
 ---
 
